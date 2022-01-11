@@ -4,9 +4,17 @@
 - 📖 I'm currently lerning "Spring" and "Java"
 - 📚 My Study Blog: [🐕‍🦺🐾](https://kkmdailylog.tistory.com)
 
+- My Github Stat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmin223&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkmin223)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmin223&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
+- My BOJ(Algorithm)
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkmin223) 
+
+- My Top Languages in Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkmin223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
