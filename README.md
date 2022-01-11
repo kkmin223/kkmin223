@@ -4,13 +4,10 @@
 - 📖 I'm currently lerning "Spring" and "Java"
 - 📚 My Study Blog: [🐕‍🦺🐾](https://kkmdailylog.tistory.com)
 
----
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmin223&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmin223&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kkmin223)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkmin223&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-  
 
 <!--
 **kkmin223/kkmin223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
