@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍🎓 I'm a student studying development.
+- 👨‍🎓 I'm a student studying development in CBNU.
 - 🏃‍♂️ I'm interested in backend developer.
 - 📖 I'm currently lerning "Spring" and "Java"
 - 📚 My Study Blog: [🐕‍🦺🐾  https://kkmdailylog.tistory.com](https://kkmdailylog.tistory.com)
