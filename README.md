@@ -16,13 +16,13 @@
 📖 I'm currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br>
 📚 My Study Blog: [🐕‍🦺🐾  https://kkmdailylog.tistory.com](https://kkmdailylog.tistory.com) <br>
 
-## 🛠Stacks
-#### Languages
+## 🛠Stack
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-#### Framework
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
-#### DB
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 
