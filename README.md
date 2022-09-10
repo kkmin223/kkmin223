@@ -35,7 +35,7 @@
 
 <br/>
 <br/>
-<div allign=center> 
+<div align=center> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkmin223&margin-w=5)](https://github.com/kkmin223/github-profile) 
 
