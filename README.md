@@ -33,6 +33,8 @@
 - 2022.06.27 ~ 2022.08.19 : 펄어비스 웹 백엔드 인턴
 - 2022.08.20 ~ : 펄어비스 웹 백엔드 개발자
 
+<br/>
+<br/>
 <div allign=center> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkmin223&margin-w=5)](https://github.com/kkmin223/github-profile) 
