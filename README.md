@@ -28,7 +28,7 @@
 ### Pearl Abyss
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/MS SQL-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat&logo=Azure DevOps&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat&logo=Azure DevOps&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
 - 2022.06.27 ~ 2022.08.19 : 펄어비스 웹 백엔드 인턴
 - 2022.08.20 ~ : 펄어비스 웹 백엔드 개발자
 
