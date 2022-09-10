@@ -4,7 +4,7 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkmin223&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkmin223)](https://solved.ac/kkmin223) <a href="https://kkmdailylog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-161A36?style=flat&logo=TV Time&logoColor=white"/></a>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkmin223)](https://solved.ac/kkmin223) <a href="https://kkmdailylog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-161A36?style=flat&logo=TV Time&logoColor=white"/></a>
 
 </div>
 
@@ -32,15 +32,7 @@
 - 2022.06.27 ~ 2022.08.19 : 펄어비스 웹 백엔드 인턴
 - 2022.08.20 ~ : 펄어비스 웹 백엔드 개발자
 
-
-
-
-
-
-
-<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkmin223)](https://github.com/kkmin223/github-profile)
--->
 
   
 
