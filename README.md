@@ -1,6 +1,6 @@
 <div align="center"> 
   
-<img src="https://capsule-render.vercel.app/api?text=KANGMIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KIM&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/>
+<img src="https://capsule-render.vercel.app/api?text=WELCOME&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkmin223&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
