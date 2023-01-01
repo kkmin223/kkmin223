@@ -12,6 +12,9 @@
 - 🎓 2017.03 ~ 2023.02 : 충북대학교 소프트웨어학과
 - 🏢 2022.06.27 ~ : 펄어비스 백엔드 개발자 
 
+<br/>
+<br/>
+
 ## 🛠 Skills & Tools 🛠
 <p align="start">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/>
